@@ -1,0 +1,17 @@
+index.html: The main landing page of your e-commerce website.
+
+product.html: A page displaying detailed information about a specific product.
+
+cart.html: The shopping cart page where users can review their selected products.
+checkout.html: The page where users can complete their purchase and provide shipping/payment details.
+order.html: A page displaying order details after a successful purchase.
+user_profile.html: User profile page to view and manage account information.
+login.html: The login page for user authentication.
+register.html: The registration page for new users.
+forgot_password.html: Page for users to reset their password if forgotten.
+search_results.html: Displaying search results for products.
+category.html: Displaying products based on a specific category.
+contact_us.html: A contact form or page for users to get in touch with customer support.
+about_us.html: A page providing information about the e-commerce store.
+terms_and_conditions.html: Page displaying terms and conditions of use.
+privacy_policy.html: Page outlining the website's privacy policy.
